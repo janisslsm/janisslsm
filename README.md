@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on contributing to projects
 - 🌱 I’m currently learning Kotlin
-- 
+
 <!--
 **janisslsm/janisslsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
