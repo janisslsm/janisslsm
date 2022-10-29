@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on contributing to projects
-- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on interesting projects.
 
 <!--
 **janisslsm/janisslsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
